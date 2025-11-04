@@ -27,9 +27,8 @@
 ## Programming Languages
 - My main programming language is **Java**.
 
-- I’ve also had some experience with **C**, working on projects with university colleagues.
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=edduMaturano&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide=javascript,html,c%2B%2B,c,css,cMake)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edduMaturano&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 # 🇧🇷 Versão em Português
 ## Sobre Mim
@@ -58,8 +57,6 @@
 
 - Minha principal linguagem de programação é **Java**.
 
-- Também tive algumas experiências com **C**, em projetos de colegas da faculdade.
-
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edduMaturano&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=edduMaturano&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide=javascript,html,c%2B%2B,c,css,cMake)](https://github.com/anuraghazra/github-readme-stats)
 
 
