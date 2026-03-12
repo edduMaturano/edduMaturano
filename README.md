@@ -16,9 +16,9 @@
 
  ## Projects I'm Working On
 
-- I’m currently developing a boleto validator, which checks whether a boleto is valid and then stores the information.
+- At the moment, I am developing my university extension project, which will be a map about the accessibility of locations in the Londrina region.
 
-- You can find the project here: https://github.com/edduMaturano/ValidadorDeBoleto
+- You can find the project here: [Viiamaps](https://github.com/edduMaturano/ViiaMaps)
 
 ## Experience
 
@@ -45,9 +45,9 @@
 
 ## Projetos em Desenvolvimento
 
-- No momento, estou desenvolvendo um validador de boletos, que verifica se o boleto é válido e armazena as informações.
+- No momento, estou desenvolvendo meu projeto de extensa da faculdade, que sera um mapa sobre a acessibilidades das localidades da região de londrina.
 
-- O projeto está disponível aqui: [ValidadorDeBoleto](https://github.com/edduMaturano/ValidadorDeBoleto)
+- O projeto está disponível aqui: [Viiamaps](https://github.com/edduMaturano/ViiaMaps)
 
  ## Experiência
 
